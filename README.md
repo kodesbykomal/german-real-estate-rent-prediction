@@ -13,4 +13,5 @@ This repository contains the source code and implementation for predicting renta
 [Kaggle – German Real Estate Data (2023)](https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany)
 
 ## Author
+Komal Saini
 .....
